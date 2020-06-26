@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="family-management" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="pl.konradboniecki.budget.familymanagement.Application" />
+    <option name="VM_PARAMETERS" value="-Dspring.profiles.active=default,config_server_local" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

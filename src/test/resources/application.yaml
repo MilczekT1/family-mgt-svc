@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: test
+  jpa:
+    open-in-view: false
+  security:
+    user:
+      name: "testUserName"
+      password: "testUserPassword"
+budget:
+  chassis:
+    http-logging:
+      enabled: true
